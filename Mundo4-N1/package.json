@@ -1,0 +1,43 @@
+{
+  "name": "mundo-4-missao-pratica-1",
+  "main": "node_modules/expo/AppEntry.js",
+  "version": "1.0.0",
+  "scripts": {
+    "start": "expo start",
+    "android": "expo start --android",
+    "ios": "expo start --ios",
+    "web": "expo start --web"
+  },
+  "jest": {
+    "preset": "jest-expo"
+  },
+  "dependencies": {
+    "@expo/metro-runtime": "~4.0.0",
+    "@react-native-community/blur": "^4.4.1",
+    "@react-navigation/native": "^6.1.18",
+    "@react-navigation/native-stack": "^6.11.0",
+    "babel-cli": "^6.26.0",
+    "babel-preset-react-app": "^3.1.2",
+    "expo": "~52.0.11",
+    "expo-blur": "^14.0.1",
+    "expo-image-picker": "~16.0.3",
+    "expo-status-bar": "~2.0.0",
+    "mundo-4-missao-pratica-1": "file:",
+    "punycode": "^2.3.1",
+    "react": "^18.3.1",
+    "react-dom": "18.3.1",
+    "react-native": "^0.76.3",
+    "react-native-image-picker": "^7.1.2",
+    "react-native-linear-gradient": "^2.8.3",
+    "react-native-safe-area-context": "4.12.0",
+    "react-native-screens": "~4.1.0",
+    "react-native-web": "~0.19.10"
+  },
+  "devDependencies": {
+    "@babel/core": "^7.25.2"
+  },
+  "private": true,
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
